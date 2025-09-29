@@ -15,5 +15,5 @@ function App() {
         </div>
     );
 }
-
+//exporting app.js in app
 export default App;
